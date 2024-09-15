@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://madbines.github.io/sitemap/sitemap.txt
